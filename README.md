@@ -2,12 +2,9 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor de software desde 2015, com experiência e curiosidade em diversas tecnologias. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Univel** e trabalho como desenvolvedor de software, focando em tecnologias como:
-
-- **TypeScript**
-- **Node.js**
-- **React**
-- **Nest.js**
+- Entusiasta desenvolvedor de software desde 2015.
+- Cursando **Análise e Desenvolvimento de Sistemas**
+- Trabalho como desenvolvedor de softwares
 
 Com um forte interesse por criar soluções eficientes e inovadoras, estou sempre em busca de aprender e crescer como profissional, contribuindo para projetos que gerem impacto.
 
